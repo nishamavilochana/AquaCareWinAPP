@@ -1,0 +1,17 @@
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\aquacaredash.exe
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\aquacaredash.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\aquacaredash.deps.json
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\aquacaredash.runtimeconfig.json
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\aquacaredash.pdb
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\FireSharp.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\FireSharp.Serialization.JsonNet.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\Newtonsoft.Json.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\OpenTK.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\OpenTK.GLControl.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\RestSharp.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\ScottPlot.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\ScottPlot.WinForms.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\SkiaSharp.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Nishama\Downloads\Research\WindowsApp\aquacaredash\bin\Debug\net6.0-windows\publish\win-x64\libSkiaSharp.dll
