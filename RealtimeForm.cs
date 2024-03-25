@@ -75,7 +75,7 @@ namespace aquacaredash
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            updatemaintextbox("Welcome!");
+            updatemaintextbox("Welcome User!");
             updatemaintextbox("Program Started"); InitializeChart(); logincredentials();
             timer1.Interval = 1000;
             timer1.Start();
